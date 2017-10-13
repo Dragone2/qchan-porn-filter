@@ -1,0 +1,58 @@
+﻿{
+	"Qchan Image Hosting":
+	"Qchan - Image Hosting",
+
+	"Language":
+	"Lingua",
+
+	"Select display language":
+	"Seleziona la lingua",
+
+	" Files Selected":
+	" Files Selezionati",
+
+	"Management":
+	"Gestisci",
+
+	"Please Login":
+	"Effettua il Login",
+
+	"Admin Name":
+	"Nome Admin",
+
+	"Password":
+	"Password",
+
+	"Login":
+	"Login",
+
+	"Admin Name is empty!":
+	"Username mancante!",
+
+	"Password is empty!":
+	"Password mancante!",
+
+	"Admin Name is incorrect!":
+	"Username errata!",
+
+	"Password is incorrect!":
+	"Password errata!",
+
+	"This site is powered by <a target=\"_blank\" href=\"http://github.com/qakcn/qchan\">Qchan %s</a>":
+	"",
+
+	"Previous":
+	"Precedente",
+
+	"Next":
+	"Successivo",
+
+	"Page: ":
+	"Pagina",
+
+	"Delete":
+	"Elimina",
+
+	"View":
+	"Visualizza"
+}

@@ -1,0 +1,190 @@
+{
+	"Qchan Image Hosting":
+	"Image Hosting - Risposte Informatiche",
+
+	"Upload":
+	"Carica",
+
+	"Language":
+	"Lingua",
+
+	"Select display language":
+	"Seleziona la lingua",
+
+	"Upload files":
+	"Carica files",
+
+	"Drag and drop files here":
+	"Trascina i files qui",
+
+	"Only works with IE 10+ and other mordern browser":
+	"Funziona solo con IE 10+ e altri browser moderni",
+
+	"Normal":
+	"Normale",
+
+	"URL":
+	"URL",
+
+	"Start Upload":
+	"Avvia Caricamento",
+
+	"Close":
+	"Chiudi",
+
+	"Select Files":
+	"Seleziona Files",
+
+	"Your browser doesn't support Drag and drop upload":
+	"Il tuo browser non supporta il caricamento Drag & Drop",
+
+	"Please put URLs here, one URL per line, with leading 'http://'":
+	"Inserisci gli URLs qui, un URL per riga, con tanto di 'http://'",
+	
+	" is not an acceptable URL.":
+	" non è un URL valido.",
+
+	" cannot load preview now. Waiting server response.":
+	" impossibile caricare un'anteprima ora. Aspetta la risposta del server.",
+
+	" is unsupported file type.":
+	" è un tipo di file non supportato.",
+
+	" reaches the size limitation.":
+	" raggiunge la dimensione massima.",
+
+	" cannot be retrieved by server now. Check if URL is invalid.":
+	" non può essere recuperato dal server. Controlla che l'URL sia valido.",
+
+	" cannot write to server disk.":
+	" impossibile scrivere su disco.",
+
+	" cannot perform duplicate check.":
+	" impossibile controllare se l'immagine è duplicata.",
+
+	" reaches size limit set in php.ini.":
+	" raggiunge il limite di dimensione impostato da PHP",
+
+	" only part of were uploaded.":
+	" solo una parte è stata caricata.",
+
+	" there is no temporary directory on server.":
+	" non esiste una cartella temporanea su questo server.",
+	
+	" is a porn image.":
+	" contiene pornografia.",
+
+	" tried several times and all failed.":
+	" ha fallito dopo aver provato diverse volte.",
+
+	"File cannot be retrieved by server now. Perhaps remote server is unreachable, or file does not exist any more, or you just make a little mistake.":
+	"Il file non può essere recuperato dal server. Forse il server remoto è irrangiungibile, il file non esiste più o hai commesso un piccolo errore.",
+
+	"Reaches file size limitation.":
+	"Raggiunge il limite di dimensione del file.",
+
+	"The file preview cannot be loaded, Perhaps file is no more exist, or remote server is un reachable, or you just make a little mistake.":
+	"Il file di anteprima non può essere caricato. Forse il file non esiste più, o il server remoto è irraggiungibile o hai commesso un piccolo errore.",
+
+	"File cannot write to upload directory on server. Ask webmaster to check permissions.":
+	"Il file non può essere scritto nella cartella di upload del server. Chiedi al webmaster di verificare i permessi.",
+
+	"File type not support now. Communicate with author for more help.":
+	"Tipo di file non supportato. Contatta l'autore per aiuto.",
+
+	"Duplicate check is failed.":
+	"Controllo file duplicato fallito.",
+
+	"Reaches file size limitation in php.ini.":
+	"Ha raggiunto il limite sulla dimensione imposto da PHP",
+
+	"Only parts of the file were uploaded. You can retry it.":
+	"Solo alcune parti del file sono state caricate. Puoi riprovare.",
+
+	"Temporary directory on the server does not exist. Ask webmaster to check.":
+	"La cartella temporanea sul server non esiste. Chiedi al webmaster di controllare.",
+	
+	"We do not allow the upload of porn images.":
+	"Non permettiamo il caricamento di immagini pornografiche.",
+
+	"Try to upload several times and all of those were failed.":
+	"Il caricamento è fallito diverse volte.",
+
+	"Preparing for uploading":
+	"Sto preparando il caricamento",
+
+	"Waiting for uploading":
+	"Attendo il caricamento",
+
+	"Uploading":
+	"Sto caricando",
+
+	"Uploaded successfully":
+	"Caricamento completato",
+
+	"Something wrong":
+	"Qualcosa è andato storto",
+
+	"Failed to upload":
+	"Caricamento fallito",
+
+	"All selected files were uploaded successfully":
+	"Tutti i files sono stati caricati correttamente",
+
+	"Not all selected files were uploaded successfully, only uploaded ones showed below":
+	"Non tutti i files sono stati caricati correttamente, solo quelli mostrati qui sotto",
+
+	"All selected files were failed to upload":
+	"Tutti i files non sono stati caricati",
+
+	" Files Selected":
+	" Files Selezionati",
+
+	"Original File":
+	"File Originale",
+
+	"HTML Code":
+	"Codice HTML",
+
+	"HTML Code with thumbnail":
+	"Codice HTML con anteprima",
+
+	"BBCode":
+	"BBCode",
+
+	"BBCode with thumbnail":
+	"BBCode con anteprima",
+
+	"Click to view large version":
+	"Clicca per visualizzare a schermo intero",
+
+	"This image is tiny and enlarged":
+	"L'immagine è piccola e ingrandita",
+
+	"This image is long and will be auto scrolled when mouse over":
+	"Questa immagine è lunga e verrà scrollata automaticamente al passaggio del mouse",
+
+	"This site is powered by <a target=\"_blank\" href=\"%s\">Qchan %s</a>":
+	"",
+
+	"Agreement":
+	"Termini e Condizioni",
+
+	"Help":
+	"Aiuto",
+
+	"Privacy":
+	"Privacy",
+
+	"Report Abuse":
+	"Segnala Abuso",
+
+	"Report abuse use such as piracy, pornography, extreme violence, religious discrimination and racism, etc.":
+	"Segnala abusi quali pornografia, violenza estrema, discriminazione religiosa ecc.",
+
+	"Report%20Abuse%20Use":
+	"Segnala%20Abuso%20Usa",
+
+	"List%20image%20address%20here%20for%20report.":
+	"Lista%20immagine%20indirizzo%20qui%per%20segnalazione."
+}
