@@ -191,7 +191,7 @@ function file_handler() {
 						$Obj = new ImageFilter;
 						$percentage = $Obj->GetScore($temp);
 						 
-						if($percentage < 31) {
+						if($percentage < 40) {
 							if(!move_uploaded_file($temp, ABSPATH.'/'.$path)) {
 								$result['status'] = 'failed';
 								$result['err'] = 'write_prohibited';
